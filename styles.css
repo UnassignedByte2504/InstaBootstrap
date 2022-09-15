@@ -1,0 +1,17 @@
+.cusSticky {
+    margin-left: auto;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    }
+
+.nopadding {
+
+    padding-left:  0;
+    padding-right: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}    
